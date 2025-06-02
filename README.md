@@ -1,1 +1,1 @@
-# sketch_engine
+sketch_api.R is a script that can be adapted and used to make API requests to Sketch Engine (www.sketchengine.eu) using R/RStudio. For full details of methods and parameters, see Sketch Engine's online API documentation (https://www.sketchengine.eu/documentation/api-documentation/).
